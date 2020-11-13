@@ -1,6 +1,9 @@
+# Fixed and Updated
+** Thanks at https://t.me/darth_vader44
+
 # Google Drive Uploader Telegram Bot
 **A Telegram bot to upload files from Telegram or Direct links to Google Drive.**
-- Find it on Telegram as [Google Drive Uploader](https://t.me/uploadgdrivebot)
+- Find it on Telegram as [Google Drive Uploader](https://t.me/rockysingh_bot)
 
 ## Features
 - [X] Telegram files support.
